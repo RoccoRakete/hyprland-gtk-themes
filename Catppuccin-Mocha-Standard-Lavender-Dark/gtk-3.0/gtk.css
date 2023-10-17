@@ -1764,7 +1764,7 @@ treeview.view {
 
 treeview.view:selected {
   background-color: #40404d;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 treeview.view.separator {
