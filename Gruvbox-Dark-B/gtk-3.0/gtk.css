@@ -180,12 +180,7 @@ read if you used those and something break with a version upgrade you're on your
   -gtkwidget-text-handle-height: 24;
   -gtkdialog-button-spacing: 6;
   -gtkdialog-action-area-border: 6;
-  outline-style: solid;
-  outline-width: 2px;
-  outline-color: transparent;
-  outline-offset: -4px;
-  -gtk-outline-radius: 6px;
-  -gtk-secondary-caret-color: #d4be98;
+  -gtk-outline-radius: 4;
 }
 
 *:focus {
